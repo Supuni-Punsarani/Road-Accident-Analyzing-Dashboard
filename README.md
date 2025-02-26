@@ -1,6 +1,8 @@
 
 ## **Road Accident Analyzing Dashboard 🚗📊**  
 
+![Capture](https://github.com/user-attachments/assets/39588ce9-81c3-4a00-959c-266f0cb11776)
+
 ### **Overview**  
 The **Road Accident Analyzing Dashboard** is a data visualization project designed to efficiently analyze and interpret road accident data. The original dataset was in Excel format but was converted into **JSON format** due to its large size for better performance and usability.  
 
