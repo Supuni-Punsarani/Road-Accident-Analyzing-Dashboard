@@ -48,8 +48,6 @@ git clone https://github.com/Supuni-Punsarani/Road-Accident-Analyzing-Dashboard.
 
 ![Screenshot (722)](https://github.com/user-attachments/assets/b771c2df-f7d7-4813-bff2-b7c14f9839ac)
 
-![Screenshot (723)](https://github.com/user-attachments/assets/0090ae92-c04c-45b5-bafc-bbf85377d5ee)
-
 ![Screenshot (724)](https://github.com/user-attachments/assets/f0fd219d-66d4-4176-a13b-c82793dfb5f3)
 
 ![Screenshot (725)](https://github.com/user-attachments/assets/d205dcef-8910-4b85-803d-5a84ef7c8074)
