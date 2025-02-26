@@ -1,0 +1,38 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null
+    },
+    {
+        "Unnamed: 0":"Row Labels",
+        "Unnamed: 1":"Sum of Number_of_Casualties"
+    },
+    {
+        "Unnamed: 0":"(blank)",
+        "Unnamed: 1":1921
+    },
+    {
+        "Unnamed: 0":"Slip road",
+        "Unnamed: 1":4679
+    },
+    {
+        "Unnamed: 0":"One way street",
+        "Unnamed: 1":7389
+    },
+    {
+        "Unnamed: 0":"Roundabout",
+        "Unnamed: 1":26828
+    },
+    {
+        "Unnamed: 0":"Dual carriageway",
+        "Unnamed: 1":67368
+    },
+    {
+        "Unnamed: 0":"Single carriageway",
+        "Unnamed: 1":309698
+    },
+    {
+        "Unnamed: 0":"Grand Total",
+        "Unnamed: 1":417883
+    }
+]

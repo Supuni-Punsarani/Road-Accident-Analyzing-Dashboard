@@ -1,0 +1,51 @@
+[
+    {
+        "Unnamed: 0":null,
+        "Unnamed: 1":null,
+        "Unnamed: 2":null,
+        "Unnamed: 3":null,
+        "Unnamed: 4":null
+    },
+    {
+        "Unnamed: 0":"Row Labels",
+        "Unnamed: 1":"Sum of Number_of_Casualties",
+        "Unnamed: 2":null,
+        "Unnamed: 3":"Road Surface",
+        "Unnamed: 4":"No of casualities"
+    },
+    {
+        "Unnamed: 0":"Dry",
+        "Unnamed: 1":279445,
+        "Unnamed: 2":null,
+        "Unnamed: 3":"Dry",
+        "Unnamed: 4":279445
+    },
+    {
+        "Unnamed: 0":"(blank)",
+        "Unnamed: 1":396,
+        "Unnamed: 2":null,
+        "Unnamed: 3":"(blank)",
+        "Unnamed: 4":396
+    },
+    {
+        "Unnamed: 0":"wet",
+        "Unnamed: 1":115261,
+        "Unnamed: 2":null,
+        "Unnamed: 3":"wet",
+        "Unnamed: 4":115261
+    },
+    {
+        "Unnamed: 0":"snow\/ice",
+        "Unnamed: 1":22781,
+        "Unnamed: 2":null,
+        "Unnamed: 3":"snow\/ice",
+        "Unnamed: 4":22781
+    },
+    {
+        "Unnamed: 0":"Grand Total",
+        "Unnamed: 1":417883,
+        "Unnamed: 2":null,
+        "Unnamed: 3":null,
+        "Unnamed: 4":null
+    }
+]
